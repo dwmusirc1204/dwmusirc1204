@@ -72,15 +72,15 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dwmusirc1204&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dwmusirc1204&show_icons=true&theme=radical&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=dwmusirc1204&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=dwmusirc1204&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwmusirc1204&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwmusirc1204&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dwmusirc1204&theme=tokyonight&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dwmusirc1204&theme=radical&row=1&no-frame=true"/>
 </p>
 
 ---
