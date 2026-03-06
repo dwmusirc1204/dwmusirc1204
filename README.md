@@ -20,52 +20,52 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 # 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-</p>
+<div style="display:flex;gap:20px;flex-wrap:wrap;">
+  <div align="center"><img src="https://skillicons.dev/icons?i=python" height="40"/><br/>Python</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="40"/><br/>PyTorch</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br/>TensorFlow</div>
+</div>
 
 ---
 
 # 🌐 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" height="40"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
-<img src="https://skillicons.dev/icons?i=vue" height="40"/>
-<img src="https://skillicons.dev/icons?i=nuxtjs" height="40"/>
-<img src="https://skillicons.dev/icons?i=angular" height="40"/>
-<img src="https://skillicons.dev/icons?i=svelte" height="40"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-<img src="https://skillicons.dev/icons?i=materialui" height="40"/>
-<img src="https://skillicons.dev/icons?i=threejs" height="40"/>
-</p>
+<div style="display:flex;gap:20px;flex-wrap:wrap;">
+  <div align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br/>React</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="40"/><br/>Next.js</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=vue" height="40"/><br/>Vue</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=nuxtjs" height="40"/><br/>Nuxt.js</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=angular" height="40"/><br/>Angular</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=svelte" height="40"/><br/>Svelte</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br/>Tailwind</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=materialui" height="40"/><br/>Material UI</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=threejs" height="40"/><br/>Three.js</div>
+</div>
 
 ---
 
 # ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-<img src="https://skillicons.dev/icons?i=express" height="40"/>
-<img src="https://skillicons.dev/icons?i=nestjs" height="40"/>
-<img src="https://skillicons.dev/icons?i=django" height="40"/>
-<img src="https://skillicons.dev/icons?i=php" height="40"/>
-<img src="https://skillicons.dev/icons?i=laravel" height="40"/>
-</p>
+<div style="display:flex;gap:20px;flex-wrap:wrap;">
+  <div align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>Node.js</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=express" height="40"/><br/>Express</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=nestjs" height="40"/><br/>NestJS</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=django" height="40"/><br/>Django</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=php" height="40"/><br/>PHP</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=laravel" height="40"/><br/>Laravel</div>
+</div>
 
 ---
 
 # 🗄 Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="40"/>
-<img src="https://skillicons.dev/icons?i=supabase" height="40"/>
-</p>
+<div style="display:flex;gap:20px;flex-wrap:wrap;">
+  <div align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br/>MongoDB</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br/>MySQL</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=postgres" height="40"/><br/>PostgreSQL</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=firebase" height="40"/><br/>Firebase</div>
+  <div align="center"><img src="https://skillicons.dev/icons?i=supabase" height="40"/><br/>Supabase</div>
+</div>
 
 ---
 
@@ -89,12 +89,11 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dwmusirc1204&theme=default&row=1&no-frame=true"/>
-
 </p>
 
 ---
 
 # 📫 Contact
 
-- 💼 GitHub: https://github.com/dwmusirc1204
+- 💼 GitHub: [https://github.com/dwmusirc1204](https://github.com/dwmusirc1204)  
 - 📧 Email: your@email.com
