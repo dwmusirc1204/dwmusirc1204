@@ -20,7 +20,7 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 # 🤖 AI / Machine Learning
 
-<div style="display:flex;gap:20px;flex-wrap:wrap;">
+<div style="display:flex;gap:20px;flex-direction:row;">
   <div align="center"><img src="https://skillicons.dev/icons?i=python" height="40"/><br/>Python</div>
   <div align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="40"/><br/>PyTorch</div>
   <div align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br/>TensorFlow</div>
