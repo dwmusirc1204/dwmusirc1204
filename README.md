@@ -34,10 +34,6 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
       <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
       <br>TensorFlow
     </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/get-icon/geticon/main/icons/chatgpt-icon.png" height="40"/>
-      <br>ChatGPT
-    </td>
   </tr>
 </table>
 
