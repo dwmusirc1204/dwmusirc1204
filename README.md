@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
 
-<h1 align="center">Hi 👋 Everyone</h1>
-<h3 align="center">Full Stack Developer | AI Engineer</h3>
+<h1>Hi 👋 Everyone</h1>
+<h3>Full Stack Developer | AI Engineer</h3>
 
-<p align="center">
+<p>
 I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 </p>
 
