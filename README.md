@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
 
-<h1 align="center">Hi 👋 I'm Dylan</h1>
+<h1 align="center">Hi 👋 Everyone</h1>
 <h3 align="center">Full Stack Developer | AI Engineer</h3>
 
 <p align="center">
@@ -72,15 +72,15 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dwmusirc1204&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=dwmusirc1204&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwmusirc1204&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -88,12 +88,12 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dwmusirc1204&theme=tokyonight&row=1"/>
 </p>
 
 ---
 
 # 📫 Contact
 
-- 💼 GitHub: https://github.com/YOUR_USERNAME
+- 💼 GitHub: https://github.com/dwmusirc1204
 - 📧 Email: your@email.com
