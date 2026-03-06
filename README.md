@@ -88,6 +88,7 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 # 🏆 GitHub Achievements
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dwmusirc1204&theme=tokyonight&row=1&no-frame=true"/>
 <img src="https://github-profile-trophy.vercel.app/?username=dwmusirc1204&theme=radical&row=1&no-frame=true"/>
 </p>
 
